@@ -1,5 +1,7 @@
 ## AeroPrice-Insights
+
 Analyzed 300K+ Indian airline flight records to uncover pricing, route, and demand trends using Python (pandas, NumPy) and SQL. Cleaned, transformed, and visualized data with matplotlib, seaborn, and plotly to reveal fare patterns, route performance, and market insights.
+
 ---
 📁 Project Structure
 
@@ -7,39 +9,47 @@ Analyzed 300K+ Indian airline flight records to uncover pricing, route, and dema
 
 ├── data/
 
-│   └── flight_data.csv
+│    └── flight_data.csv
 
 ├── notebooks/
 
-│   └── flight_analysis.ipynb
+│    └── flight_analysis.ipynb
 
 ├── sql/
 
-│   └── flight_queries.sql
+│    └── flight_queries.sql
 
 ├── visuals/
 
-│   └── plots_and_charts/
+│    └── plots_and_charts/
 
 └── requirements.txt
+
 ---
+
 ## ✈️ Airlines Flight Data Analysis Using Python & MySQL
 
 Welcome to the Airlines Flight Data Analysis project!
 This project explores over 300,000+ flight records from Indian airlines to uncover insights into pricing trends, routes, demand, and airline performance using Python and SQL.
+
 ---
+
 ## 📋 Project Overview
 
 The goal of this project is to analyze and visualize large-scale flight data to identify patterns in ticket pricing, route popularity, and travel demand.
 By leveraging Python and SQL, this analysis aims to provide actionable insights into how various factors such as airline type, travel class, stops, source/destination city, duration, and days left before departure affect flight pricing and performance.
+
 ---
-##🧠 Objectives
+
+## 🧠 Objectives
 
 * Uncover pricing trends across airlines, classes, and routes.
 * Determine the busiest routes and airports.
 * Compare average fares based on stops, duration, and departure timing.
 * Use SQL queries and Python visualizations to derive key business insights.
+  
 ---
+
 ## 🧰 Technologies Used
 
 Programming & Libraries:
@@ -47,7 +57,9 @@ Programming & Libraries:
  2. Matplotlib, Seaborn, Plotly
  3. pandasql, MySQL
  4. Jupyter Notebook / Google Colab
+    
  ---
+ 
 ## 📊 Visualizations
  1. Price Distribution Across Airlines
  2. Average Price: Economy vs. Business Class
@@ -55,7 +67,9 @@ Programming & Libraries:
  4. Days Left vs. Ticket Price Trend
  5. Stops vs. Price Comparison
  6. Duration Impact on Ticket Pricing
+    
 ---
+
 ## 🧾 SQL Queries Implemented
 
 Example queries include:
