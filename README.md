@@ -4,14 +4,23 @@ Analyzed 300K+ Indian airline flight records to uncover pricing, route, and dema
 📁 Project Structure
 
 ├── README.md
+
 ├── data/
+
 │   └── flight_data.csv
+
 ├── notebooks/
+
 │   └── flight_analysis.ipynb
+
 ├── sql/
+
 │   └── flight_queries.sql
+
 ├── visuals/
+
 │   └── plots_and_charts/
+
 └── requirements.txt
 
 * ✈️ Airlines Flight Data Analysis Using Python & MySQL
